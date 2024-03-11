@@ -1,0 +1,30 @@
+{
+    "welcomeMessage": "\u0633\u06b5\u0627\u0648 \u0628\u06d5\u0695\u06ce\u0632 \ud83c\udf39\n\n\u0628\u06d5\u062e\u06ce\u0631\u0628\u06ce\u06cc\u062a \u0628\u06c6 \u0628\u06c6\u062a\u06cc SNR VIP SIGNAL \ud83e\udd16\n\n\u0641\u06d5\u0631\u0645\u0648\u0648 \u0686\u06c6\u0646 \u0647\u0627\u0648\u06a9\u0627\u0631\u06cc\u062a \u0628\u06a9\u06d5\u0645 \u061f\ud83e\udd0d",
+    "type_of_payment": [
+        {
+            "payment": {
+                "days": "30",
+                "price": "38"
+            }
+        },
+        {
+            "payment": {
+                "days": "90",
+                "price": "90"
+            }
+        },
+        {
+            "payment": {
+                "days": "180",
+                "price": "180"
+            }
+        },
+        {
+            "payment": {
+                "days": "365",
+                "price": "280"
+            }
+        },
+        {}
+    ]
+}
